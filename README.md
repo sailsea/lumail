@@ -56,9 +56,9 @@ lumail \
 
 
 执行效果图
-![执行效果图](https://github.com/sailsea/lumail/master/image/3.png)
+![执行效果图](https://github.com/sailsea/lumail/blob/master/image/3.png)
 生成效果图
 #### 必选项发送
-![必选项发送](https://github.com/sailsea/lumail/master/image/1.png)
+![必选项发送](https://github.com/sailsea/lumail/blob/master/image/1.png)
 #### 全选发送
-![全选发送](https://github.com/sailsea/lumail/master/image/2.png)
+![全选发送](https://github.com/sailsea/lumail/blob/master/image/2.png)
